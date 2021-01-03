@@ -18,5 +18,5 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 
 [linkedin]: http://www.linkedin.com/in/sanket-a-kulkarni
 [gmail]: http://www.linkedin.com/in/sanket-a-kulkarni
-[github]: http://www.linkedin.com/in/sanket-a-kulkarni
-[instagram]: http://www.linkedin.com/in/sanket-a-kulkarni
+[github]: http://www.github.com/Sanketak08
+[instagram]: https://www.instagram.com/sanketak_08/
