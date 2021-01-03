@@ -17,6 +17,6 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketak08&layout=compact&theme=tokyonight)
 
 [linkedin]: http://www.linkedin.com/in/sanket-a-kulkarni
-[gmail]: http://www.linkedin.com/in/sanket-a-kulkarni
+[gmail]: http://www.gmail.com/sakulkarni0801@gmail.com
 [github]: http://www.github.com/Sanketak08
 [instagram]: https://www.instagram.com/sanketak_08/
