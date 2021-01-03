@@ -7,18 +7,16 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 
 ### Get in Touch
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&related_item_id=174857" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:sakulkarni0801@gmail.com)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
 <br/>
 
 ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=Sanketak08&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketak08&layout=compact&theme=tokyonight)
 
 [linkedin]: http://www.linkedin.com/in/sanket-a-kulkarni
-
-<!-- [gmail]: http://www.gmail.com/sakulkarni0801@gmail.com -->
-
 [github]: http://www.github.com/Sanketak08
 [instagram]: https://www.instagram.com/sanketak_08/
