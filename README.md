@@ -7,10 +7,10 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 
 ## Get in Touch
 
-[<img align="left" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/>][linkedin]
-[<img align="left" src="https://img.icons8.com/fluent/48/fa314a/gmail--v2.png"/>](mailto:sakulkarni0801@gmail.com)
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>][github]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg"/>][linkedin]
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg"/>](mailto:sakulkarni0801@gmail.com)
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg"/>][github]
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"/>][instagram]
 <br/>
 <br/>
 <br/>
