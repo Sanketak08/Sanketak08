@@ -8,7 +8,7 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 ### Get in Touch
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:sakulkarni0801@gmail.com)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
@@ -17,6 +17,8 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketak08&layout=compact&theme=tokyonight)
 
 [linkedin]: http://www.linkedin.com/in/sanket-a-kulkarni
-[gmail]: http://www.gmail.com/sakulkarni0801@gmail.com
+
+<!-- [gmail]: http://www.gmail.com/sakulkarni0801@gmail.com -->
+
 [github]: http://www.github.com/Sanketak08
 [instagram]: https://www.instagram.com/sanketak_08/
