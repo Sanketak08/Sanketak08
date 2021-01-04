@@ -1,6 +1,6 @@
-# Hi there, I'm Sanket Kulkarni 👋
+# Hi there, I'm Sanket Kulkarni <img align="left" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
 
-I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Computer Engineering from Pune Institute of Computer Technology. I'm interested in developing Web as well as Android Applications which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include kinda Gaming, listening music and watching Web Series.
+I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Computer Engineering from Pune Institute of Computer Technology. I'm interested in developing Web as well as Android Applications which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include Gaming, listening music and watching Web Series.
 
 -   🔭 I’m currently working on Project based on Social Media Website
 -   🌱 I’m currently learning React Native and Typescript
