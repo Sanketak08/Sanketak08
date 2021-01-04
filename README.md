@@ -22,7 +22,45 @@ I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Comp
 
 ## Skills
 
-[<img align="left" width="35px" src="data:image/png;base64,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"/>]
+-   Web Technologies
+    <!-- html -->
+
+    [<img align="center" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
+    <!-- css -->
+
+    [<img align="center" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>]
+    <!-- javascript -->
+
+    [<img align="center" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
+    <!-- bootstrap -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/e480712d4033388f6b85d9e96b6348ca2d92f27c461e5d11a686e3d59c1db0e7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36352f3030303030302f626f6f7473747261702e706e67"/>]
+    <!-- react -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/0987d654392fd3073d9a19c26c9f39d6624c5274bd86a77cef3c7d6d4c65b15a/68747470733a2f2f696d672e69636f6e73382e636f6d2f756c74726176696f6c65742f35352f3030303030302f72656163742e706e67"/>]
+    <!-- node -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/45612d366a69669f27330ea002140a7753e6993bfaaf874cf8435319a908dfd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f38302f3030303030302f6e6f64656a732e706e67"/>]
+    <!-- mongodb -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/3340e31c2fba36d78a1e614a727689b2af44ce6e04f8cd66f8c122663dee0997/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f37302f3030303030302f6d6f6e676f64622e706e67"/>]
+    <!-- python -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/0eda27ee2de8b8c942807220a64c665f7044f88f552f9f844079678d1b3db68d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36352f3030303030302f707974686f6e2e706e67"/>]
+
+-   Programming Languages
+    <!-- c -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/a6cdfd6d3ef1ce216eca4afa206d6a9567ae724ae27751a79beceb223fa5c9ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36352f3030303030302f632d70726f6772616d6d696e672e706e67"/>]
+    <!-- c++ -->
+
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/1d0db2e60654b303a839322fa43becfb8e7f15c689aa772509d9a4e024ab547b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36352f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67"/>]
+
+-   Tools
+    <!-- github -->
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/09ec1c12aff93964dc91ad7753fe5bad3381ccc0f9ab1ff0038618c978ab2a9e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f36352f3030303030302f6769746875622e706e67"/>]
+    <!-- markdown -->
+    [<img align="center" width="55px" src="https://camo.githubusercontent.com/3110d3398da81e165a315b7b52e67884ef20109b1210dae051fe2839c47b97f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f36352f3030303030302f6d61726b646f776e2e706e67"/>]
 
 [linkedin]: http://www.linkedin.com/in/sanket-a-kulkarni
 [github]: http://www.github.com/Sanketak08
