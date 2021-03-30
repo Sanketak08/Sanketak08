@@ -2,7 +2,6 @@
 
 I'm Full Stack Developer from India currently pursuing Bachelor's Degree in Computer Engineering from Pune Institute of Computer Technology. I'm interested in developing Web as well as Android Applications which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include Gaming, listening music and watching Web Series.
 
--   🔭 I’m currently working on Project based on Social Media Website
 -   🌱 I’m currently learning React Native and Typescript
 
 <br/>
